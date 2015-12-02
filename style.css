@@ -1,1 +1,21 @@
+body{
+  margin-bottom: 0px;
+  color: #525252;
+}
 
+.tableDetail{
+  color: ##FFFFFF;
+}
+
+a:hover {
+	color: #EFEFDD;
+	font-family: tahoma;
+	font-size: 10px;
+	font-weight: bold;
+	font-style: normal;
+	line-height: normal;
+	font-variant: normal;
+	text-transform: none;
+	border: thin none #FFFFFF;
+	text-decoration: underline;
+}
