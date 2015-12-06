@@ -1,10 +1,35 @@
-<!DOCTYPE>
+<!DOCTYPE html>
 <html>
-  <head>
-    <title>The Time To Rise</title>
-    
-  </head>
-  <body>
-    
-  </body>
+<head>
+	<script type="text/javascript" src="js/jq.js"></script>
+
+</head>
+	<script type="text/javascript">
+		console.log("Working1");
+		$.ajax({
+			url: '/output.json',
+			async: false,
+			dataType: 'json',
+			success: function(data) {
+				var obj = data;
+				console.log("Working1");
+
+				obj.forEach(function(t){
+					console.log(t);
+					console.log("Working2");
+				});
+			}
+		});
+	</script>
+
+<body>
+
+
+
+	
+
+
+
+
+</body>
 </html>
