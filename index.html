@@ -111,7 +111,7 @@ svg.append("text")
     .attr("text-anchor", "end")
     .attr("x", width)
     .attr("y", height - 6)
-    .text("income per capita, inflation-adjusted (dollars)");
+    .text("Number of tweets");
 
 // Add a y-axis label.
 svg.append("text")
@@ -120,7 +120,7 @@ svg.append("text")
     .attr("y", 6)
     .attr("dy", ".75em")
     .attr("transform", "rotate(-90)")
-    .text("life expectancy (years)");
+    .text("Average Income");
 
 // Add the year label; the value is set on transition.
 var label = svg.append("text")
@@ -128,7 +128,7 @@ var label = svg.append("text")
     .attr("text-anchor", "end")
     .attr("y", height - 24)
     .attr("x", width)
-    .text(1800);
+    .text(10/22/15);
 
 // Load the data.
 d3.json("nations.json", function(nations) {
