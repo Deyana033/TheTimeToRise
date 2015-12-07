@@ -114,7 +114,7 @@ ul.alert-dropdown {
 
 /* Side Navigation */
 
-@media(min-width:768px) {
+/*@media(min-width:768px) {
     .side-nav {
         position: fixed;
         top: 51px;
@@ -154,7 +154,7 @@ ul.alert-dropdown {
 
 .side-nav>li>ul>li>a:hover {
     color: #fff;
-}
+}*/
 
 /* Flot Chart Containers */
 
