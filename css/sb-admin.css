@@ -23,7 +23,7 @@ body {
 
 /* this is where the white div is on the website*/
 #page-wrapper {
-    width: 130%;
+    width: 100%;
     padding: 0;
     background-color: #fff;
 }
