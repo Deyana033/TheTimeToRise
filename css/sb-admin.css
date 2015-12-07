@@ -34,7 +34,7 @@ body {
     line-height: normal;
 }
 
-@media(min-width:768px) {
+/*@media(min-width:768px) {
     #wrapper {
         padding-left: 225px;
     }
@@ -43,10 +43,10 @@ body {
         padding: 10px;
     }
 }
-
+*/
 /* Top Navigation */
 
-.top-nav {
+/*.top-nav {
     padding: 0 15px;
 }
 
@@ -156,9 +156,9 @@ ul.alert-dropdown {
     color: #fff;
 }*/
 
-/* Flot Chart Containers */
+/* Flot Chart Containers */ 
 
-.flot-chart {
+/*.flot-chart {
     display: block;
     height: 400px;
 }
@@ -170,7 +170,7 @@ ul.alert-dropdown {
 
 /* Custom Colored Panels */
 
-.huge {
+/*.huge {
     font-size: 40px;
 }
 
