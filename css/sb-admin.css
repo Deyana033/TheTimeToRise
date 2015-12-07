@@ -22,12 +22,12 @@ body {
 }
 
 /* this is where the white div is on the website*/
-#page-wrapper {
+/*#page-wrapper {
     width: 600%; /*124%*/
-    height:500%;
+   /* height:500%;
     padding: 0;
     background-color: #fff;
-}
+}*/
 
 .huge {
     font-size: 50px;
