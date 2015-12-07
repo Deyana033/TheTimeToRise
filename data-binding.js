@@ -8,7 +8,7 @@ function main(){
   svg.attr('height',800);
   
   //load the data from a text file, and call the callback function when it's done.
-  d3.text('???',fuction(err, content){
+  //d3.text('???',fuction(err, content){
     if(err){
     //if any erro happens, print it and return (no visualization will be shown)
       console.error(err);
