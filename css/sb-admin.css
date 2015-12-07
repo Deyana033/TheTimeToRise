@@ -21,8 +21,9 @@ body {
     padding-left: 0;
 }
 
+/* this is where the white div is on the website*/
 #page-wrapper {
-    width: 300%;
+    width: 215%;
     padding: 0;
     background-color: #fff;
 }
