@@ -6,3 +6,4 @@ function main(){
   svg.attr('height', 800);
 }
 
+main();
