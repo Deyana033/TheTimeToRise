@@ -1,3 +1,7 @@
+// I changed the name of all the functions....since our income is hardcoded i dont believe we need this function.
+//return d.id is because in our data each tweet starts with an "id" for radius of the circle idk what to add
+
+
 //Various accessors that specify the four dimensions of that data visulize.
 function x(d){
   return d.income;
@@ -176,6 +180,9 @@ d3.json("data.json", function(data) {
     dot.data(interpolateData(year), key).call(position).sort(order);
     label.text(Math.round(year));
   }
+  
+  
+  // not sure of the names here
   // Interpolates the dataset for the given (fractional) year.
   function interpolateData(year) {
     return data.map(function(d) {
