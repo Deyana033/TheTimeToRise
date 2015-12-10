@@ -180,14 +180,18 @@ d3.json("data.json", function(data) {
   function interpolateData(year) {
     return data.map(function(d) {
       return {
-        name: d.name,
+        name: d.user_city_name,   ///not sure what to represent these as...........................................
         region: d.region,
+        //location: d.user_city_name;     ??????????????????????
         income: interpolateValues(d.income, year),
         population: interpolateValues(d.population, year),
         lifeExpectancy: interpolateValues(d.lifeExpectancy, year)
+        //numberOfTweets: interpolateValues (d.id, year) ?????????????????????????
       };
     });
   }
+  
+  
   // Finds (and possibly interpolates) the value for the specified year.
   function interpolateValues(values, year) {
     var i = bisect.left(values, year, 0, values.length - 1),
