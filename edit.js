@@ -4,7 +4,7 @@ function x(d){
 }
 
 function y(d){
-  return d.numbtweets;
+  return d.id; //to collect the number of tweets would be "id" ?
 }
 
 function radius(d){
@@ -12,11 +12,11 @@ function radius(d){
 }
 
 function color(d){
-  return d.state;
+  return d.hashtags;
 }
 
 function key(d) {
-  return d.name;
+  return d.user_city_name;
 }
 
 
@@ -87,9 +87,12 @@ var label = svg.append("text")
 
 
 // Load the data.
-d3.json("nations.json", function(nations) {
+d3.json("data.json", function(data) {
+  
   // A bisector since many nation's data is sparsely-defined.
   var bisect = d3.bisector(function(d) { return d[0]; });
+  
+  
   // Add a dot per nation. Initialize the data at 1800, and set the colors.
   var dot = svg.append("g")
       .attr("class", "dots")
@@ -100,9 +103,13 @@ d3.json("nations.json", function(nations) {
       .style("fill", function(d) { return colorScale(color(d)); })
       .call(position)
       .sort(order);
+      
+      
   // Add a title.
   dot.append("title")
       .text(function(d) { return d.name; });
+      
+      
   // Add an overlay for the year label.
   var box = label.node().getBBox();
   var overlay = svg.append("rect")
@@ -112,12 +119,16 @@ d3.json("nations.json", function(nations) {
         .attr("width", box.width)
         .attr("height", box.height)
         .on("mouseover", enableInteraction);
+        
+        
   // Start a transition that interpolates the data based on year.
   svg.transition()
       .duration(30000)
       .ease("linear")
       .tween("year", tweenYear)
       .each("end", enableInteraction);
+      
+      
   // Positions the dots based on data.
   function position(dot) {
     dot .attr("cx", function(d) { return xScale(x(d)); })
@@ -128,12 +139,15 @@ d3.json("nations.json", function(nations) {
   function order(a, b) {
     return radius(b) - radius(a);
   }
+  
   // After the transition finishes, you can mouseover to change the year.
   function enableInteraction() {
     var yearScale = d3.scale.linear()
         .domain([22, 26])
         .range([box.x + 1, box.x + box.width - 1])
         .clamp(true);
+        
+        
     // Cancel the current transition, if any.
     svg.transition().duration(0);
     overlay
@@ -164,7 +178,7 @@ d3.json("nations.json", function(nations) {
   }
   // Interpolates the dataset for the given (fractional) year.
   function interpolateData(year) {
-    return nations.map(function(d) {
+    return data.map(function(d) {
       return {
         name: d.name,
         region: d.region,
