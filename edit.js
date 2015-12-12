@@ -16,12 +16,15 @@ function radius(d){
 }
 
 function color(d){
-  if d.hashtags = "BlackLivesMatter";
+  if (d.hashtags = "BlackLivesMatter"){
     return blue;
-    if else d.hashtags = "RiseUpOctober";
+  }
+    if else (d.hashtags = "RiseUpOctober"){
       return red;
-      else 
+    }
+      else {
         return orange;
+      }
 }
 
 function key(d) {
