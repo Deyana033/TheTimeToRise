@@ -4,11 +4,11 @@
 
 //Various accessors that specify the four dimensions of that data visulize.
 function x(d){
-  return d.income;
+  return d.avg_income;
 }
 
 function y(d){
-  return d.id; //to collect the number of tweets would be "id" ?
+  return d.number_per_city; //to collect the number of tweets would be "id" ?
 }
 
 function radius(d){
@@ -16,7 +16,12 @@ function radius(d){
 }
 
 function color(d){
-  return d.hashtags;
+  if d.hashtags = "BlackLivesMatter";
+    return blue;
+    if else d.hashtags = "RiseUpOctober";
+      return red;
+      else 
+        return orange;
 }
 
 function key(d) {
