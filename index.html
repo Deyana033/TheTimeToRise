@@ -1,0 +1,102 @@
+
+<!DOCTYPE html>
+<html class="ocks-org do-not-copy">
+  <head>
+<meta charset="utf-8">
+<title>The Time to Rise</title>
+   <script type="text/javascript" src="d3.v3.min.js"></script>
+    <script type="text/javascript" src="analytics.js"></script>
+    <script type="text/javascript" src="nations.json"></script>
+</head>
+<style>
+
+@import url(../style.css?aea6f0a);
+
+#chart {
+  margin-left: 20px;
+  height: 506px;
+}
+
+text {
+  font: 10px sans-serif;
+  color:#00000;
+}
+
+.dot {
+  stroke: #000;
+}
+
+.axis path, .axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.label {
+  fill: #777;
+}
+
+.year.label {
+  font: 500 196px "Helvetica Neue";
+  fill: #ddd;
+}
+
+.year.label.active {
+  fill: #aaa;
+}
+
+.overlay {
+  fill: none;
+  pointer-events: all;
+  cursor: ew-resize;
+}
+
+</style>
+
+
+
+
+<!--the page background color-->
+<style>
+  body{
+    background-color:#a3c2c2 ;
+  }
+  h1{
+    font-family: Papyrus, fantasy;
+    font-size: 50px;
+    
+  }
+</style>
+
+
+
+
+
+
+<header>
+</header>
+
+<h1>The Time to Rise</h1>
+
+<p id="chart"></p>
+
+<text-align="right">Mouseover the day to move forward and backwards through time.</aside>
+
+
+<footer>
+
+</footer>
+
+<script src="d3.v3.min.js" charset="utf-8"></script>
+<script src="edit.js" charset="utf-8"></script>
+
+
+
+<script>
+
+GoogleAnalyticsObject = "ga", ga = function() { ga.q.push(arguments); }, ga.q = [], ga.l = +new Date;
+ga("create", "UA-48272912-3", "ocks.org");
+ga("send", "pageview");
+
+</script>
+<script async src="//www.google-analytics.com/analytics.js"></script>
