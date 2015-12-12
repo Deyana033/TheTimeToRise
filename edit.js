@@ -4,27 +4,26 @@
 
 //Various accessors that specify the four dimensions of that data visulize.
 function x(d){
-  return d.avg_income;
+  return d.avg_income;  
 }
 
 function y(d){
-  return d.number_per_city; //to collect the number of tweets would be "id" ?
+  return d.city_total;
 }
 
 function radius(d){
-  //return d. ?????
+  return d.number_per_city
 }
 
 function color(d){
-  if (d.hashtags = "BlackLivesMatter"){
-    return blue;
+  if (d.hashtags == "BlackLivesMatter"){
+	  return red;
   }
-    if else (d.hashtags = "RiseUpOctober"){
-      return red;
-    }
-      else {
-        return orange;
-      }
+  else if (d.hashtags == "RiseUpOctober"){
+	  return blue;
+  }
+  else
+	  return orange;
 }
 
 function key(d) {
@@ -39,9 +38,9 @@ var margin = {top: 19.5, right: 19.5, bottom: 19.5, left: 39.5},
 
 
 // Various scales. These domains make assumptions of data, naturally.
-var xScale = d3.scale.log().domain([300, 1e5]).range([0, width]),
-    yScale = d3.scale.linear().domain([10, 85]).range([height, 0]),
-    radiusScale = d3.scale.sqrt().domain([0, 5e8]).range([0, 40]),
+var xScale = d3.scale.log().domain([10000, 150000]).range([0, width]),
+    yScale = d3.scale.linear().domain([0, 200]).range([height, 0]),
+    radiusScale = d3.scale.sqrt().domain([0, 5e5]).range([0, 40]),
     colorScale = d3.scale.category10();
 
 
@@ -54,7 +53,7 @@ var xAxis = d3.svg.axis().orient("bottom").scale(xScale).ticks(12, d3.format(",d
 var svg = d3.select("#chart").append("svg")
     .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
-  .append("g")
+	.append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
     
     
@@ -77,7 +76,7 @@ svg.append("text")
     .attr("text-anchor", "end")
     .attr("x", width)
     .attr("y", height - 6)
-    .text("Average income");
+    .text("Average Income");
     
 // Add a y-axis label.
 svg.append("text")
@@ -195,12 +194,9 @@ d3.json("data.json", function(data) {
   function interpolateData(year) {
     return data.map(function(d) {
       return {
-        name: d.user_city_name,   ///not sure what to represent these as...........................................
-        region: d.region,
-        //location: d.user_city_name;     ??????????????????????
-        income: interpolateValues(d.income, year),
-        population: interpolateValues(d.population, year),
-        lifeExpectancy: interpolateValues(d.lifeExpectancy, year)
+        name: d.user_city_name,   //not sure what to represent these as...........................................
+        hashtag: d.hashtags,
+		number: d.number_per_city;
         //numberOfTweets: interpolateValues (d.id, year) ?????????????????????????
       };
     });
@@ -220,10 +216,4 @@ d3.json("data.json", function(data) {
   }
 });
 
-</script>
-<script>
-GoogleAnalyticsObject = "ga", ga = function() { ga.q.push(arguments); }, ga.q = [], ga.l = +new Date;
-ga("create", "UA-48272912-3", "ocks.org");
-ga("send", "pageview");
-</script>
-<script async src="//www.google-analytics.com/analytics.js"></script>
+
