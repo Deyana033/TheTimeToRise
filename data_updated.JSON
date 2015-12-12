@@ -1,0 +1,336 @@
+[
+  {
+    "created_at": “22",
+    “number_per_city”: “1”,
+    “avg_income”: “49,465”,
+    “city_total”: “1”,
+    "user_city_name": "Hattiesburg",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": “22",
+    “number_per_city”: “1”,
+    “avg_income”: “69,533”,
+    “city_total”: “2”,
+    "user_city_name": "Salt Lake City",
+    "hashtags": [
+      "RACISM"
+    ]
+  },
+  {
+    "created_at": “22",
+    “number_per_city”: “1”,
+    “avg_income”: “61,605”,
+    “city_total”: “1”,
+    "user_city_name": "Fort Wayne",
+    "hashtags": [
+      "BlackLivesMatter",
+    ]
+  },
+  {
+    "created_at": “22",
+    “number_per_city”: “4”,
+    “avg_income”: “74,022”,
+    “city_total”: “30”,
+    "user_city_name": "Houston",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": “22",
+    “number_per_city”: “1”,
+    “avg_income”: “68,007”,
+    “city_total”: “1”,
+    "user_city_name": "El Campo",
+    "hashtags": [
+      "WakeUpAmerica"
+    ]
+  },
+  {
+    "created_at": “22",
+    “number_per_city”: “1”,
+    “avg_income”: “82,555”,
+    “city_total”: “1”,
+    "user_city_name": "Riverview",
+    "hashtags": []
+  },
+  {
+    "created_at": “22",
+    “number_per_city”: “9”,
+    “avg_income”: “55,598”,
+    “city_total”: “27”,
+    "user_city_name": "St Louis",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": “22",
+    “number_per_city”: “1”,
+    “avg_income”: “52,453”,
+    “city_total”: “1”,
+    "user_city_name": "Hull",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": “22",
+    “number_per_city”: “1”,
+    “avg_income”: “62,583”
+    “city_total”: “1”,
+    "user_city_name": "Poughkeepsie",
+    "hashtags": [
+      "BlackLivesMatter",
+    ]
+  },
+  {
+    "created_at": “22",
+    “number_per_city”: “1”,
+    “avg_income”: “40,862”,
+    “city_total”: “3”,
+    "user_city_name": "Hamden",
+    "hashtags": []
+  },
+  {
+    "created_at": “22",
+    “number_per_city”: “1”,
+    “avg_income”: “95,699”,
+    “city_total”: “2”,
+    "user_city_name": "Jupiter",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": “22",
+    “number_per_city”: “1”,
+    “avg_income”: “126,354”,
+    “city_total”: “1”,
+    "user_city_name": "Garden City",
+    "hashtags": [
+      "BlackLivesMatter",
+    ]
+  },
+  {
+    "created_at": “22",
+    “number_per_city”: “1”,
+    “avg_income”: “99,909”,
+    “city_total”: “1”,
+    "user_city_name": "Missouri City",
+    "hashtags": [
+      "BlackLivesMatter",
+    ]
+  },
+  {
+    "created_at": “22",
+    “number_per_city”: “2”,
+    “avg_income”: “93,135”,
+    “city_total”: “3”,
+    "user_city_name": "Thurmont",
+    "hashtags": []
+  },
+  {
+    "created_at": “22",
+    “number_per_city”: “1”,
+    “avg_income”: “61,283”,
+    “city_total”: “33”,
+    "user_city_name": "Brooklyn",
+    "hashtags": [
+      "BlackLivesMatter",
+    ]
+  },
+  {
+    "created_at": “22",
+    “number_per_city”: “7”,
+    “avg_income”: “96,204”,
+    “city_total”: “57”,
+    "user_city_name": "Washington",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": “22",
+    “number_per_city”: “5”,
+    “avg_income”: “82,406”,
+    “city_total”: “68”,
+    "user_city_name": "Los Angeles",
+    "hashtags": [
+      "RiseUpOctober"
+    ]
+  },
+  {
+    "created_at": “22",
+    “number_per_city”: “1”,
+    “avg_income”: “11,478”,
+    “city_total”: “2”,
+    "user_city_name": "Evanston",
+    "hashtags": []
+  },
+  {
+    "created_at": “22",
+    “number_per_city”: “1”,
+    “avg_income”: “73,332”,
+    “city_total”: “6”,
+    "user_city_name": "Denver",
+    "hashtags": [
+      "alllivesmatter"
+    ]
+  },
+  {
+    "created_at": “22",
+    “number_per_city”: “1”,
+    “avg_income”: “81,482”,
+    “city_total”: “1”,
+    "user_city_name": "Salmon Creek",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": “22",
+    “number_per_city”: “1”,
+    “avg_income”: “71,931”,
+    “city_total”: “1”,
+    "user_city_name": "Little Rock",
+    "hashtags": []
+  },
+  {
+    "created_at": “22",
+    “number_per_city”: “6”,
+    “avg_income”: “117,930”,
+    “city_total”: “190”,
+    "user_city_name": "Manhattan",
+    "hashtags": [
+      "RiseUpOctober"
+    ]
+  },
+  {
+    "created_at": “22",
+    “number_per_city”: “1”,
+    “avg_income”: “48,419”,
+    “city_total”: “3”,
+    "user_city_name": "Louisville",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": “22",
+    “number_per_city”: “1”,
+    “avg_income”: “83,596”,
+    “city_total”: “13”,
+    "user_city_name": "Davis",
+    "hashtags": [
+      "Blacklivesmatter"
+    ]
+  },
+  {
+    "created_at": “22",
+    “number_per_city”: “1”,
+    “avg_income”: “60,709”,
+    “city_total”: “1”,
+    "user_city_name": "Foster City",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": “22",
+    “number_per_city”: “1”,
+    “avg_income”: “71,720”,
+    “city_total”: “24”,
+    "user_city_name": "Eugene",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": “22",
+    “number_per_city”: “1”,
+    “avg_income”: “55,284”,
+    “city_total”: “1”,
+    "user_city_name": "Corsicana",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": “22",
+    “number_per_city”: “1”,
+    “avg_income”: “42,656”,
+    “city_total”: “2”,
+    "user_city_name": "Huntsville",
+    "hashtags": [
+      "blacklivesmatter"
+    ]
+  },
+  {
+    "created_at": “22",
+    “number_per_city”: “1”,
+    “avg_income”: “41,115”,
+    “city_total”: “1”,
+    "user_city_name": "Pagedale",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": “22",
+    “number_per_city”: “1”,
+    “avg_income”: “59,846”,
+    “city_total”: “1”,
+    "user_city_name": "Tallahassee",
+    "hashtags": []
+  },
+  {
+    "created_at": “22",
+    “number_per_city”: “1”,
+    “avg_income”: “52,615”,
+    “city_total”: “1”,
+    "user_city_name": "Garland",
+    "hashtags": []
+  },
+  {
+    "created_at": “22",
+    “number_per_city”: “1”,
+    “avg_income”: “130,921”,
+    “city_total”: “1”,
+    "user_city_name": "Westlake Park",
+    "hashtags": [
+      "RiseUpOctober",
+    ]
+  },
+  {
+    "created_at": “22",
+    “number_per_city”: “1”,
+    “avg_income”: “59,045”,
+    “city_total”: “1”,
+    "user_city_name": "Lindenwold",
+    "hashtags": []
+  },
+  {
+    "created_at": “22",
+    “number_per_city”: “1”,
+    “avg_income”: “72,390”,
+    “city_total”: “4”,
+    "user_city_name": "Minneapolis",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": “22",
+    “number_per_city”: “1”,
+    “avg_income”: “52,048”,
+    “city_total”: “16”,
+    "user_city_name": "Portland",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  }
+]
