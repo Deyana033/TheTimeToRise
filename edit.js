@@ -12,18 +12,18 @@ function radius(d){
 }
 
 function color(d){
-  for (var i = 0; i < d.hashtags.length; i++){
-     if (d.hashtags[i] == "BlackLivesMatter"){
+  for (var i = 0; i < d.hashtag.length; i++){
+     if (d.hashtag[i] == "BlackLivesMatter"){
 	  return 0;
      }
-     else if (d.hashtags[i] == "RiseUpOctober"){
+     else if (d.hashtag[i] == "RiseUpOctober"){
 	  return 1;
      }
-     else if (d.hashtags[i] == "PoliceBrutality"){
-     	  return green;
+     else if (d.hashtag[i] == "PoliceBrutality"){
+     	  return 2;
      }
      else
-	  return orange;	
+	  return 3;	
      }
   }
 }
