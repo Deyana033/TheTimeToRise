@@ -14,10 +14,10 @@ function radius(d){
 function color(d){
   for (var i = 0; i < d.hashtags.length; i++){
      if (d.hashtags[i] == "BlackLivesMatter"){
-	  return red;
+	  return 0;
      }
      else if (d.hashtags[i] == "RiseUpOctober"){
-	  return blue;
+	  return 1;
      }
      else if (d.hashtags[i] == "PoliceBrutality"){
      	  return green;
