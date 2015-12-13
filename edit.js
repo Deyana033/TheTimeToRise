@@ -238,24 +238,20 @@ function radius(d){
 }
 
 function color(d){
-	
-	for(var i=0; i<d.hashtags.length; i++){
-		if(d.hashtags[i]=="BlackLivesMatter")
-			return 'red';
-			else if(d.hashtags[i]="RiseUpOctober"){
-				return 'blue';
-			}
-			else
-				reutrn 'orange';
-	}
- /* if (d.hashtags == "BlackLivesMatter"){
-	  return 'red';
+  for (var i = 0; i < d.hashtags.length; i++){
+     if (d.hashtags[i] == "BlackLivesMatter"){
+	  return red;
+     }
+     else if (d.hashtags[i] == "RiseUpOctober"){
+	  return blue;
+     }
+     else if (d.hashtags[i] == "PoliceBrutality"){
+     	  return green
+     }
+     else
+	  return orange;	
+     }
   }
-  else if (d.hashtags == "RiseUpOctober"){
-	  return 'blue';
-  }
-  else
-	  return 'orange';*/
 }
 
 function key(d) {
