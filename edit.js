@@ -233,14 +233,24 @@ function radius(d){
 }
 
 function color(d){
-  if (d.hashtags == "BlackLivesMatter"){
+	
+	for(var i=0; i<d.hashtags.length; i++){
+		if(d.hashtags[i]=="BlackLivesMatter")
+			return 'red';
+			else if(d.hashtags[i]="RiseUpOctober"){
+				return 'blue';
+			}
+			else
+				reutrn 'orange';
+	}
+ /* if (d.hashtags == "BlackLivesMatter"){
 	  return 'red';
   }
   else if (d.hashtags == "RiseUpOctober"){
 	  return 'blue';
   }
   else
-	  return 'orange';
+	  return 'orange';*/
 }
 
 function key(d) {
