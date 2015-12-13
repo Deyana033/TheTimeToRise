@@ -335,37 +335,37 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 59749,
     "city_total": 1,
     "user_city_name": "Williamstown",
     "hashtags": [
-      "BlackLivesMatter",
+      "BlackLivesMatter"
     ]
   },
   {
     "created_at": 23,
-    "number_per_city": 74,
+	"number_per_city": 74,
     "avg_income": 80204,
     "city_total": 86,
     "user_city_name": "Seattle",
     "hashtags": [
-      "RiseUpOctober",
+      "RiseUpOctober"
     ]
   },
   {
     "created_at": 23,
-    "number_per_city": 20,
+	"number_per_city": 20,
     "avg_income": 82406,
     "city_total": 68,
     "user_city_name": "Los Angeles",
     "hashtags": [
-      "RiseUpOctober",
+      "RiseUpOctober"
     ]
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 64127,
     "city_total": 1,
     "user_city_name": "Winston-Salem",
@@ -375,17 +375,17 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 17,
+	"number_per_city": 17,
     "avg_income": 96204,
     "city_total": 57,
     "user_city_name": "Washington",
     "hashtags": [
-      "BlackLivesMatter",
+      "BlackLivesMatter"
     ]
   },
   {
     "created_at": 23,
-    "number_per_city": 2,
+	"number_per_city": 2,
     "avg_income": 72422,
     "city_total": 18,
     "user_city_name": "Neenah",
@@ -395,7 +395,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 3,
+	"number_per_city": 3,
     "avg_income": 103995,
     "city_total": 8,
     "user_city_name": "San Francisco",
@@ -405,7 +405,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 59679,
     "city_total": 1,
     "user_city_name": "Jennings",
@@ -415,17 +415,17 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 4,
+	"number_per_city": 4,
     "avg_income": 53575,
     "city_total": 5,
     "user_city_name": "Michigan",
     "hashtags": [
-      "BlackLivesMatter",
+      "BlackLivesMatter"
     ]
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 133234,
     "city_total": 1,
     "user_city_name": "Huntington Beach",
@@ -435,7 +435,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 3,
+	"number_per_city": 3,
     "avg_income": 63989,
     "city_total": 4,
     "user_city_name": "Paradise",
@@ -445,17 +445,17 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 21,
+	"number_per_city": 21,
     "avg_income": 74360,
     "city_total": 141,
     "user_city_name": "Chicago",
     "hashtags": [
-      "BlackLivesMatter",
+      "BlackLivesMatter"
     ]
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 96082,
     "city_total": 1,
     "user_city_name": "Hacienda Heights",
@@ -465,17 +465,17 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 117930,
     "city_total": 190,
     "user_city_name": "Manhattan",
     "hashtags": [
-      "BlackLivesMatter",
+      "BlackLivesMatter"
     ]
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 78192,
     "city_total": 1,
     "user_city_name": "Cardiff",
@@ -485,7 +485,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 100936,
     "city_total": 1,
     "user_city_name": "Grapevine",
@@ -496,27 +496,27 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 153166,
     "city_total": 1,
     "user_city_name": "Biltmore Forest",
     "hashtags": [
-      "BlackLivesMatter",
+      "BlackLivesMatter"
     ]
   },
   {
     "created_at": 23,
-    "number_per_city": 3,
+	"number_per_city": 3,
     "avg_income": 80557,
     "city_total": 16,
     "user_city_name": "Charlotte",
     "hashtags": [
-      "BlackLivesMatter",
+      "BlackLivesMatter"
     ]
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 84519,
     "city_total": 2,
     "user_city_name": "Tucker",
@@ -524,7 +524,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 44262,
     "city_total": 1,
     "user_city_name": "Nacogdoches",
@@ -534,7 +534,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 61615,
     "city_total": 1,
     "user_city_name": "Wilsonville",
@@ -544,7 +544,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 2,
+	"number_per_city": 2,
     "avg_income": 64168,
     "city_total": 3,
     "user_city_name": "Wichita",
@@ -554,7 +554,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 4,
+	"number_per_city": 4,
     "avg_income": 74022,
     "city_total": 30,
     "user_city_name": "Houston",
@@ -564,7 +564,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 74220,
     "city_total": 2,
     "user_city_name": "Bakersfield",
@@ -574,7 +574,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 43095,
     "city_total": 1,
     "user_city_name": "Kirkland",
@@ -584,7 +584,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 11,
+	"number_per_city": 11,
     "avg_income": 71720,
     "city_total": 24,
     "user_city_name": "Eugene",
@@ -594,7 +594,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 60118,
     "city_total": 1,
     "user_city_name": "High Point",
@@ -604,7 +604,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 53054,
     "city_total": 1,
     "user_city_name": "Allentown",
@@ -612,7 +612,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 77,
+	"number_per_city": 77,
     "avg_income": 52707,
     "city_total": 99,
     "user_city_name": "Bronx",
@@ -622,17 +622,17 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 73032,
     "city_total": 6,
     "user_city_name": "Arlington",
     "hashtags": [
-      "BlackLivesMatter",
+      "BlackLivesMatter"
     ]
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 71306,
     "city_total": 1,
     "user_city_name": "West Palm Beach",
@@ -642,7 +642,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 80761,
     "city_total": 1,
     "user_city_name": "Nashua",
@@ -652,7 +652,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 89428,
     "city_total": 1,
     "user_city_name": "Homewood",
@@ -662,7 +662,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 7,
+	"number_per_city": 7,
     "avg_income": 80271,
     "city_total": 21,
     "user_city_name": "Oakland",
@@ -672,7 +672,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 83596,
     "city_total": 13,
     "user_city_name": "Davis",
@@ -682,7 +682,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 4,
+	"number_per_city": 4,
     "avg_income": 54672,
     "city_total": 4,
     "user_city_name": "Cedar City",
@@ -692,7 +692,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 8,
+	"number_per_city": 8,
     "avg_income": 55598,
     "city_total": 27,
     "user_city_name": "St Louis",
@@ -702,7 +702,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 30987,
     "city_total": 1,
     "user_city_name": "University City",
@@ -710,7 +710,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 2,
+	"number_per_city": 2,
     "avg_income": 60769,
     "city_total": 4,
     "user_city_name": "Baltimore",
@@ -720,7 +720,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 8,
+	"number_per_city": 8,
     "avg_income": 61283,
     "city_total": 33,
     "user_city_name": "Brooklyn",
@@ -730,7 +730,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 147201,
     "city_total": 1,
     "user_city_name": "Burke",
@@ -740,7 +740,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 92083,
     "city_total": 11,
     "user_city_name": "Framingham",
@@ -750,7 +750,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 65494,
     "city_total": 1,
     "user_city_name": "Berwyn",
@@ -758,7 +758,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 2,
+	"number_per_city": 2,
     "avg_income": 55227,
     "city_total": 2,
     "user_city_name": "Akron",
@@ -768,7 +768,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 144306,
     "city_total": 1,
     "user_city_name": "Lawrenceville",
@@ -778,7 +778,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 74752,
     "city_total": 1,
     "user_city_name": "Fort Collins",
@@ -786,7 +786,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 96204,
     "city_total": 1,
     "user_city_name": "Winchester",
@@ -796,7 +796,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 51654,
     "city_total": 1,
     "user_city_name": "Bowie",
@@ -804,7 +804,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 6,
+	"number_per_city": 6,
     "avg_income": 52048,
     "city_total": 16,
     "user_city_name": "Portland",
@@ -814,7 +814,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 2,
+	"number_per_city": 2,
     "avg_income": 61734,
     "city_total": 2,
     "user_city_name": "Enterprise",
@@ -822,7 +822,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 3,
+	"number_per_city": 3,
     "avg_income": 67145,
     "city_total": 7,
     "user_city_name": "Nashville",
@@ -832,7 +832,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 2,
+	"number_per_city": 2,
     "avg_income": 61676,
     "city_total": 2,
     "user_city_name": "Lehigh Acres",
@@ -842,7 +842,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 61557,
     "city_total": 1,
     "user_city_name": "Dranesville",
@@ -852,7 +852,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 8,
+	"number_per_city": 8,
     "avg_income": 101603,
     "city_total": 10,
     "user_city_name": "Andover",
@@ -860,7 +860,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 3,
+	"number_per_city": 3,
     "avg_income": 71144,
     "city_total": 6,
     "user_city_name": "Fort Worth",
@@ -870,7 +870,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 62157,
     "city_total": 4,
     "user_city_name": "New Orleans",
@@ -880,7 +880,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 2,
+	"number_per_city": 2,
     "avg_income": 78791,
     "city_total": 2,
     "user_city_name": "Ann Arbor",
@@ -890,7 +890,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 5,
+	"number_per_city": 5,
     "avg_income": 55174,
     "city_total": 8,
     "user_city_name": "Augusta",
@@ -900,7 +900,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 83206,
     "city_total": 1,
     "user_city_name": "Hayesville",
@@ -910,17 +910,17 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 2,
+	"number_per_city": 2,
     "avg_income": 103733,
     "city_total": 2,
     "user_city_name": "Mundelein",
     "hashtags": [
-      "BlackLivesMatter",
+      "BlackLivesMatter"
     ]
   },
   {
     "created_at": 23,
-    "number_per_city": 2,
+	"number_per_city": 2,
     "avg_income": 83206,
     "city_total": 2,
     "user_city_name": "Florence",
@@ -930,17 +930,17 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 46590,
     "city_total": 1,
     "user_city_name": "Amelia",
     "hashtags": [
-      "BlackLivesMatter",
+      "BlackLivesMatter"
     ]
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 73389,
     "city_total": 1,
     "user_city_name": "Port Vue",
@@ -948,7 +948,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 44817,
     "city_total": 1,
     "user_city_name": "Seven Oaks",
@@ -958,7 +958,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 6,
+	"number_per_city": 6,
     "avg_income": 57199,
     "city_total": 34,
     "user_city_name": "Toledo",
@@ -968,7 +968,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 44756,
     "city_total": 2,
     "user_city_name": "St Petersburg",
@@ -978,7 +978,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 93776,
     "city_total": 1,
     "user_city_name": "West Orange",
@@ -988,7 +988,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 4,
+	"number_per_city": 4,
     "avg_income": 61320,
     "city_total": 13,
     "user_city_name": "California",
@@ -998,7 +998,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 67311,
     "city_total": 1,
     "user_city_name": "St Clair Shores",
@@ -1008,7 +1008,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 2,
+	"number_per_city": 2,
     "avg_income": 79258,
     "city_total": 2,
     "user_city_name": "Las Vegas",
@@ -1018,7 +1018,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 53173,
     "city_total": 2,
     "user_city_name": "Yorkville",
@@ -1028,7 +1028,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 93615,
     "city_total": 1,
     "user_city_name": "Cliffside Park",
@@ -1038,7 +1038,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 93039,
     "city_total": 7,
     "user_city_name": "Henderson",
@@ -1048,7 +1048,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 2,
+	"number_per_city": 2,
     "avg_income": 55652,
     "city_total": 2,
     "user_city_name": "Knoxville",
@@ -1058,7 +1058,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 66558,
     "city_total": 1,
     "user_city_name": "La Vergne",
@@ -1068,7 +1068,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 90083,
     "city_total": 1,
     "user_city_name": "Verona",
@@ -1078,7 +1078,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 116612,
     "city_total": 1,
     "user_city_name": "Boca Raton",
@@ -1086,7 +1086,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 50038,
     "city_total": 1,
     "user_city_name": "Port Huron",
@@ -1094,7 +1094,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 55290,
     "city_total": 2,
     "user_city_name": "Elyria",
@@ -1104,7 +1104,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 3,
+	"number_per_city": 3,
     "avg_income": 44399,
     "city_total": 7,
     "user_city_name": "Jackson",
@@ -1114,7 +1114,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 2,
+	"number_per_city": 2,
     "avg_income": 60985,
     "city_total": 2,
     "user_city_name": "Mission Bend",
@@ -1124,7 +1124,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 46786,
     "city_total": 1,
     "user_city_name": "Silver Spring",
@@ -1132,7 +1132,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 63544,
     "city_total": 1,
     "user_city_name": "Kenosha",
@@ -1140,7 +1140,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 7,
+	"number_per_city": 7,
     "avg_income": 76174,
     "city_total": 22,
     "user_city_name": "Queens",
@@ -1148,7 +1148,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 97710,
     "city_total": 1,
     "user_city_name": "Torrance",
@@ -1158,7 +1158,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 64755,
     "city_total": 2,
     "user_city_name": "Orlando",
@@ -1168,7 +1168,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 55531,
     "city_total": 1,
     "user_city_name": "Pearl River",
@@ -1176,7 +1176,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 37728,
     "city_total": 1,
     "user_city_name": "Macomb",
@@ -1186,7 +1186,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 89621,
     "city_total": 1,
     "user_city_name": "Allendale",
@@ -1196,7 +1196,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 72931,
     "city_total": 1,
     "user_city_name": "Plymouth",
@@ -1206,7 +1206,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 57587,
     "city_total": 1,
     "user_city_name": "Haltom City",
@@ -1216,7 +1216,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 3,
+	"number_per_city": 3,
     "avg_income": 52199,
     "city_total": 3,
     "user_city_name": "South Bend",
@@ -1226,7 +1226,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 68132,
     "city_total": 1,
     "user_city_name": "Altamonte Springs",
@@ -1236,7 +1236,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 89643,
     "city_total": 8,
     "user_city_name": "San Diego",
@@ -1246,7 +1246,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 75014,
     "city_total": 21,
     "user_city_name": "Phoenix",
@@ -1256,7 +1256,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 105022,
     "city_total": 1,
     "user_city_name": "Santa Clarita",
@@ -1264,7 +1264,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 67690,
     "city_total": 1,
     "user_city_name": "Victorville",
@@ -1274,7 +1274,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 97111,
     "city_total": 1,
     "user_city_name": "Hawthorne",
@@ -1284,7 +1284,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 202559,
     "city_total": 3,
     "user_city_name": "Southlake",
@@ -1292,7 +1292,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 2,
+	"number_per_city": 2,
     "avg_income": 65117,
     "city_total": 3,
     "user_city_name": "San Antonio",
@@ -1302,7 +1302,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 4,
+	"number_per_city": 4,
     "avg_income": 63206,
     "city_total": 8,
     "user_city_name": "Durham",
@@ -1312,7 +1312,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 83425,
     "city_total": 1,
     "user_city_name": "Fort Lauderdale",
@@ -1320,7 +1320,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 74765,
     "city_total": 4,
     "user_city_name": "Tampa",
@@ -1330,7 +1330,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 40862,
     "city_total": 3,
     "user_city_name": "Greenville",
@@ -1340,7 +1340,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 47242,
     "city_total": 2,
     "user_city_name": "Stockton",
@@ -1350,7 +1350,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 77161,
     "city_total": 1,
     "user_city_name": "Glassboro",
@@ -1360,7 +1360,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 60456,
     "city_total": 1,
     "user_city_name": "Pomona",
@@ -1370,7 +1370,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 72738,
     "city_total": 1,
     "user_city_name": "Seaside",
@@ -1380,7 +1380,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 57885,
     "city_total": 1,
     "user_city_name": "Ocala",
@@ -1390,7 +1390,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 2,
+	"number_per_city": 2,
     "avg_income": 50317,
     "city_total": 2,
     "user_city_name": "Salem",
@@ -1400,7 +1400,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 55887,
     "city_total": 3,
     "user_city_name": "Columbus",
@@ -1410,7 +1410,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 54433,
     "city_total": 1,
     "user_city_name": "Cedar Hill",
@@ -1420,7 +1420,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 48963,
     "city_total": 2,
     "user_city_name": "Valdosta",
@@ -1430,7 +1430,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 77429,
     "city_total": 1,
     "user_city_name": "Metairie",
@@ -1438,7 +1438,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 55264,
     "city_total": 1,
     "user_city_name": "Pelican Bay",
@@ -1446,7 +1446,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 73889,
     "city_total": 1,
     "user_city_name": "Hyde Park",
@@ -1456,7 +1456,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 89996,
     "city_total": 1,
     "user_city_name": "Maumelle",
@@ -1466,7 +1466,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 2,
+	"number_per_city": 2,
     "avg_income": 58147,
     "city_total": 10,
     "user_city_name": "Memphis",
@@ -1476,7 +1476,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 2,
+	"number_per_city": 2,
     "avg_income": 59136,
     "city_total": 7,
     "user_city_name": "Newark",
@@ -1486,7 +1486,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 68322,
     "city_total": 1,
     "user_city_name": "Loganville",
@@ -1494,7 +1494,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 3,
+	"number_per_city": 3,
     "avg_income": 63610,
     "city_total": 4,
     "user_city_name": "Camden",
@@ -1504,7 +1504,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 53957,
     "city_total": 3,
     "user_city_name": "Birmingham",
@@ -1514,7 +1514,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 4,
+	"number_per_city": 4,
     "avg_income": 78087,
     "city_total": 4,
     "user_city_name": "Rohnert Park",
@@ -1524,7 +1524,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 2,
+	"number_per_city": 2,
     "avg_income": 42569,
     "city_total": 5,
     "user_city_name": "Gary",
@@ -1534,7 +1534,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 67878,
     "city_total": 2,
     "user_city_name": "Oklahoma City",
@@ -1544,7 +1544,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 73332,
     "city_total": 6,
     "user_city_name": "Denver"
@@ -1554,7 +1554,7 @@
   },
   {
     "created_at": 23,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 59531,
     "city_total": 1,
     "user_city_name": "Springdale",
@@ -1564,7 +1564,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 89004,
     "city_total": 1,
     "user_city_name": "Monrovia",
@@ -1574,7 +1574,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 78713,
     "city_total": 1,
     "user_city_name": "Plainfield",
@@ -1584,7 +1584,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 130,
+	"number_per_city": 130,
     "avg_income": 117930,
     "city_total": 190,
     "user_city_name": "Manhattan",
@@ -1594,7 +1594,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 118093,
     "city_total": 1,
     "user_city_name": "Coronado",
@@ -1604,7 +1604,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 2,
+	"number_per_city": 2,
     "avg_income": 80117,
     "city_total": 2,
     "user_city_name": "Desoto",
@@ -1612,7 +1612,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 2,
+	"number_per_city": 2,
     "avg_income": 40572,
     "city_total": 3,
     "user_city_name": "Concord",
@@ -1622,7 +1622,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 72213,
     "city_total": 1,
     "user_city_name": "Griffith",
@@ -1632,7 +1632,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 73032,
     "city_total": 6,
     "user_city_name": "Arlington",
@@ -1642,7 +1642,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 101603,
     "city_total": 10,
     "user_city_name": "Andover",
@@ -1650,7 +1650,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 13,
+	"number_per_city": 13,
     "avg_income": 61283,
     "city_total": 33,
     "user_city_name": "Brooklyn",
@@ -1660,7 +1660,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 5,
+	"number_per_city": 5,
     "avg_income": 73417,
     "city_total": 8,
     "user_city_name": "Dallas",
@@ -1670,7 +1670,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 47885,
     "city_total": 1,
     "user_city_name": "Lauderhill",
@@ -1680,7 +1680,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 54885,
     "city_total": 1,
     "user_city_name": "Emeryville",
@@ -1690,7 +1690,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 66538,
     "city_total": 1,
     "user_city_name": "Oregon City",
@@ -1700,7 +1700,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 44756,
     "city_total": 2,
     "user_city_name": "St Petersburg",
@@ -1710,7 +1710,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 19,
+	"number_per_city": 19,
     "avg_income": 82406,
     "city_total": 68,
     "user_city_name": "Los Angeles",
@@ -1720,7 +1720,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 29,
+	"number_per_city": 29,
     "avg_income": 74360,
     "city_total": 144,
     "user_city_name": "Chicago",
@@ -1730,7 +1730,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 65117,
     "city_total": 3,
     "user_city_name": "San Antonio",
@@ -1740,7 +1740,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 5,
+	"number_per_city": 5,
     "avg_income": 76174,
     "city_total": 22,
     "user_city_name": "Queens",
@@ -1750,7 +1750,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 42656,
     "city_total": 2,
     "user_city_name": "Huntsville",
@@ -1758,7 +1758,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 77885,
     "city_total": 1,
     "user_city_name": "Albany",
@@ -1768,7 +1768,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 101567,
     "city_total": 3,
     "user_city_name": "Overland Park",
@@ -1778,7 +1778,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 54227,
     "city_total": 1,
     "user_city_name": "Palmdale",
@@ -1786,7 +1786,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 55152,
     "city_total": 1,
     "user_city_name": "Mount Clemens",
@@ -1796,7 +1796,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 35226,
     "city_total": 4,
     "user_city_name": "Mayfield",
@@ -1806,7 +1806,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 4,
+	"number_per_city": 4,
     "avg_income": 63206,
     "city_total": 8,
     "user_city_name": "Durham",
@@ -1816,7 +1816,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 40781,
     "city_total": 4,
     "user_city_name": "Tulsa",
@@ -1826,7 +1826,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 2,
+	"number_per_city": 2,
     "avg_income": 36919,
     "city_total": 5,
     "user_city_name": "Mississippi",
@@ -1836,7 +1836,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 3,
+	"number_per_city": 3,
     "avg_income": 103995,
     "city_total": 8,
     "user_city_name": "San Francisco",
@@ -1846,7 +1846,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 57,
+	"number_per_city": 57,
     "avg_income": 112863,
     "city_total": 57,
     "user_city_name": "Minnetonka",
@@ -1856,7 +1856,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 54115,
     "city_total": 1,
     "user_city_name": "Burlington",
@@ -1866,7 +1866,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 58147,
     "city_total": 10,
     "user_city_name": "Memphis",
@@ -1876,7 +1876,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 2,
+	"number_per_city": 2,
     "avg_income": 57885,
     "city_total": 2,
     "user_city_name": "Graysville",
@@ -1886,7 +1886,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 93556,
     "city_total": 1,
     "user_city_name": "Decatur",
@@ -1894,7 +1894,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 99771,
     "city_total": 1,
     "user_city_name": "Laguna Niguel",
@@ -1904,7 +1904,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 18,
+	"number_per_city": 18,
     "avg_income": 52707,
     "city_total": 99,
     "user_city_name": "Bronx",
@@ -1914,7 +1914,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 69533,
     "city_total": 2,
     "user_city_name": "Salt Lake City",
@@ -1922,7 +1922,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 13,
+	"number_per_city": 13,
     "avg_income": 74022,
     "city_total": 30,
     "user_city_name": "Houston",
@@ -1930,7 +1930,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 43185,
     "city_total": 5,
     "user_city_name": "Milwaukee",
@@ -1940,7 +1940,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 79092,
     "city_total": 1,
     "user_city_name": "Longmont",
@@ -1950,7 +1950,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 5,
+	"number_per_city": 5,
     "avg_income": 59136,
     "city_total": 7,
     "user_city_name": "Newark",
@@ -1960,7 +1960,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 66936,
     "city_total": 1,
     "user_city_name": "Mankato",
@@ -1970,7 +1970,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 66147,
     "city_total": 1,
     "user_city_name": "Davison",
@@ -1978,7 +1978,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 2,
+	"number_per_city": 2,
     "avg_income": 55462,
     "city_total": 3,
     "user_city_name": "Elkton",
@@ -1988,7 +1988,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 2,
+	"number_per_city": 2,
     "avg_income": 67885,
     "city_total": 2,
     "user_city_name": "Denton",
@@ -1998,7 +1998,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 4,
+	"number_per_city": 4,
     "avg_income": 89643,
     "city_total": 8,
     "user_city_name": "San Diego",
@@ -2008,7 +2008,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 41556,
     "city_total": 2,
     "user_city_name": "Greensboro",
@@ -2018,7 +2018,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 72390,
     "city_total": 4,
     "user_city_name": "Minneapolis",
@@ -2028,7 +2028,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 13,
+	"number_per_city": 13,
     "avg_income": 96204,
     "city_total": 57,
     "user_city_name": "Washington",
@@ -2038,7 +2038,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 12,
+	"number_per_city": 12,
     "avg_income": 80271,
     "city_total": 21,
     "user_city_name": "Oakland",
@@ -2048,7 +2048,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 192686,
     "city_total": 1,
     "user_city_name": "Burbank",
@@ -2058,7 +2058,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 90825,
     "city_total": 1,
     "user_city_name": "Tysons Corner",
@@ -2066,7 +2066,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 68745,
     "city_total": 3,
     "user_city_name": "Altamont",
@@ -2076,7 +2076,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 41665,
     "city_total": 2,
     "user_city_name": "Lake Arbor",
@@ -2086,7 +2086,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 57825,
     "city_total": 1,
     "user_city_name": "Eden Prairie",
@@ -2096,7 +2096,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 2,
+	"number_per_city": 2,
     "avg_income": 202559,
     "city_total": 3,
     "user_city_name": "Southlake",
@@ -2106,7 +2106,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 2,
+	"number_per_city": 2,
     "avg_income": 55174,
     "city_total": 8,
     "user_city_name": "Augusta",
@@ -2116,7 +2116,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 90596,
     "city_total": 3,
     "user_city_name": "Honolulu",
@@ -2126,7 +2126,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 2,
+	"number_per_city": 2,
     "avg_income": 61320,
     "city_total": 13,
     "user_city_name": "California",
@@ -2136,7 +2136,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 44576,
     "city_total": 1,
     "user_city_name": "Red Hill",
@@ -2144,7 +2144,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 57324,
     "city_total": 4,
     "user_city_name": "Raleigh",
@@ -2154,7 +2154,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 73803,
     "city_total": 1,
     "user_city_name": "Highland",
@@ -2164,7 +2164,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 140717,
     "city_total": 1,
     "user_city_name": "Cranbury",
@@ -2174,7 +2174,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 52728,
     "city_total": 5,
     "user_city_name": "Reno",
@@ -2184,7 +2184,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 50771,
     "city_total": 1,
     "user_city_name": "Addison",
@@ -2194,7 +2194,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 2,
+	"number_per_city": 2,
     "avg_income": 50400,
     "city_total": 2,
     "user_city_name": "Trenton",
@@ -2204,7 +2204,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 48887,
     "city_total": 1,
     "user_city_name": "Fellsburg",
@@ -2212,7 +2212,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 2,
+	"number_per_city": 2,
     "avg_income": 92083,
     "city_total": 11,
     "user_city_name": "Framingham",
@@ -2222,7 +2222,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 73723,
     "city_total": 1,
     "user_city_name": "Kearny",
@@ -2232,7 +2232,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 3,
+	"number_per_city": 3,
     "avg_income": 84333,
     "city_total": 3,
     "user_city_name": "Seabrook",
@@ -2242,7 +2242,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 68509,
     "city_total": 1,
     "user_city_name": "Irvington",
@@ -2252,7 +2252,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 65634,
     "city_total": 1,
     "user_city_name": "Jefferson City",
@@ -2260,7 +2260,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 6,
+	"number_per_city": 6,
     "avg_income": 586385,
     "city_total": 17,
     "user_city_name": "Lynn",
@@ -2268,7 +2268,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 42475,
     "city_total": 1,
     "user_city_name": "Southbury",
@@ -2278,7 +2278,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 87265,
     "city_total": 1,
     "user_city_name": "Stockbridge",
@@ -2288,7 +2288,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 2,
+	"number_per_city": 2,
     "avg_income": 78028,
     "city_total": 2,
     "user_city_name": "Shakopee",
@@ -2299,7 +2299,7 @@
   {
 
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 36789,
     "city_total": 1,
     "user_city_name": "New Bedford",
@@ -2309,7 +2309,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 4,
+	"number_per_city": 4,
     "avg_income": 55865,
     "city_total": 5,
     "user_city_name": "Williamsburg",
@@ -2319,7 +2319,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 40862,
     "city_total": 3,
     "user_city_name": "Greenville",
@@ -2327,7 +2327,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 112227,
     "city_total": 1,
     "user_city_name": "Greenwich Village",
@@ -2337,7 +2337,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 4,
+	"number_per_city": 4,
     "avg_income": 52900,
     "city_total": 6,
     "user_city_name": "Long Beach",
@@ -2347,7 +2347,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 59789,
     "city_total": 1,
     "user_city_name": "Indian Harbour Beach",
@@ -2357,7 +2357,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 42677,
     "city_total": 5,
     "user_city_name": "Norfolk",
@@ -2367,7 +2367,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 89000,
     "city_total": 2,
     "user_city_name": "Montgomery",
@@ -2375,7 +2375,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 72706,
     "city_total": 1,
     "user_city_name": "Stamford",
@@ -2385,7 +2385,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 2,
+	"number_per_city": 2,
     "avg_income": 46033,
     "city_total": 2,
     "user_city_name": "Elizabeth",
@@ -2395,17 +2395,17 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 11,
+	"number_per_city": 11,
     "avg_income": 55733,
     "city_total": 18,
     "user_city_name": "Atlanta",
     "hashtags": [
-      "BlackLivesMatter",
+      "BlackLivesMatter"
     ]
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 63989,
     "city_total": 4,
     "user_city_name": "Paradise",
@@ -2415,7 +2415,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 2,
+	"number_per_city": 2,
     "avg_income": 31993,
     "city_total": 6,
     "user_city_name": "Key West",
@@ -2425,7 +2425,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 71144,
     "city_total": 6,
     "user_city_name": "Fort Worth",
@@ -2433,7 +2433,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 83768,
     "city_total": 2,
     "user_city_name": "Fairmount",
@@ -2443,7 +2443,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 34814,
     "city_total": 1,
     "user_city_name": "Burley",
@@ -2453,7 +2453,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 69657,
     "city_total": 1,
     "user_city_name": "Manassas",
@@ -2463,7 +2463,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 71966,
     "city_total": 2,
     "user_city_name": "Staten Island",
@@ -2473,7 +2473,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 10,
+	"number_per_city": 10,
     "avg_income": 29094,
     "city_total": 12,
     "user_city_name": "Bryant Park",
@@ -2483,7 +2483,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 7,
+	"number_per_city": 7,
     "avg_income": 50502,
     "city_total": 10,
     "user_city_name": "Detroit",
@@ -2493,7 +2493,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 46946,
     "city_total": 11,
     "user_city_name": "Miami",
@@ -2503,7 +2503,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 4,
+	"number_per_city": 4,
     "avg_income": 57685,
     "city_total": 9,
     "user_city_name": "Springfield",
@@ -2513,7 +2513,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 48419,
     "city_total": 3,
     "user_city_name": "Louisville",
@@ -2523,7 +2523,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 57112,
     "city_total": 1,
     "user_city_name": "Boulder",
@@ -2533,7 +2533,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 11478,
     "city_total": 2,
     "user_city_name": "Evanston",
@@ -2543,7 +2543,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 2,
+	"number_per_city": 2,
     "avg_income": 43394,
     "city_total": 3,
     "user_city_name": "Inglewood",
@@ -2553,7 +2553,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 68314,
     "city_total": 2,
     "user_city_name": "Palm Beach Gardens",
@@ -2563,7 +2563,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 40134,
     "city_total": 1,
     "user_city_name": "Lealman",
@@ -2573,7 +2573,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 2,
+	"number_per_city": 2,
     "avg_income": 58322,
     "city_total": 4,
     "user_city_name": "Sacramento",
@@ -2583,7 +2583,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 95347,
     "city_total": 1,
     "user_city_name": "West Bloomfield",
@@ -2591,7 +2591,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 75014,
     "city_total": 21,
     "user_city_name": "Phoenix",
@@ -2599,7 +2599,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 34207,
     "city_total": 3,
     "user_city_name": "Philadelphia",
@@ -2609,7 +2609,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 111083,
     "city_total": 1,
     "user_city_name": "Ridgefield",
@@ -2619,17 +2619,17 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 2,
+	"number_per_city": 2,
     "avg_income": 87114,
     "city_total": 3,
     "user_city_name": "Union",
     "hashtags": [
-      "BlueLivesMatter",
+      "BlueLivesMatter"
     ]
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 46697,
     "city_total": 1,
     "user_city_name": "Dayton",
@@ -2637,7 +2637,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 3,
+	"number_per_city": 3,
     "avg_income": 56948,
     "city_total": 7,
     "user_city_name": "Times Square",
@@ -2647,7 +2647,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 79905,
     "city_total": 1,
     "user_city_name": "Sayreville",
@@ -2657,7 +2657,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 4,
+	"number_per_city": 4,
     "avg_income": 18148,
     "city_total": 5,
     "user_city_name": "Hammond",
@@ -2665,7 +2665,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 2,
+	"number_per_city": 2,
     "avg_income": 34734,
     "city_total": 5,
     "user_city_name": "West Springfield",
@@ -2675,7 +2675,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 6,
+	"number_per_city": 6,
     "avg_income": 93039,
     "city_total": 7,
     "user_city_name": "Henderson",
@@ -2685,7 +2685,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 39187,
     "city_total": 1,
     "user_city_name": "East Lake-Orient Park",
@@ -2695,7 +2695,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 59895,
     "city_total": 1,
     "user_city_name": "Palm Springs",
@@ -2705,7 +2705,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 71422,
     "city_total": 1,
     "user_city_name": "Manchester",
@@ -2715,7 +2715,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 2,
+	"number_per_city": 2,
     "avg_income": 52048,
     "city_total": 16,
     "user_city_name": "Portland",
@@ -2725,7 +2725,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 59885,
     "city_total": 1,
     "user_city_name": "Savannah",
@@ -2733,7 +2733,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 60769,
     "city_total": 4,
     "user_city_name": "Baltimore",
@@ -2743,7 +2743,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 1,
+	"number_per_city": 1,
     "avg_income": 52431,
     "city_total": 8,
     "user_city_name": "Austin",
@@ -2753,7 +2753,7 @@
   },
   {
     "created_at": 24,
-    "number_per_city": 4,
+	"number_per_city": 4,
     "avg_income": 57885,
     "city_total": 4,
     "user_city_name": "Denton",
