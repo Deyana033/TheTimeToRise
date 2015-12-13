@@ -20,7 +20,7 @@ function color(d){
 	  return blue;
      }
      else if (d.hashtags[i] == "PoliceBrutality"){
-     	  return green
+     	  return green;
      }
      else
 	  return orange;	
