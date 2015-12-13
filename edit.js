@@ -1,5 +1,4 @@
-// I changed the name of all the functions....since our income is hardcoded i dont believe we need this function.
-//return d.id is because in our data each tweet starts with an "id" for radius of the circle idk what to add
+
 
 
 //Various accessors that specify the four dimensions of that data visulize.
