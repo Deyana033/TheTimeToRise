@@ -232,17 +232,19 @@ function radius(d){
   return d.number_per_city * 1000;
 }
 
-function color(d){
+//function color(d){
 	
 	for(var i=0; i<d.hashtags.length; i++){
-		if(d.hashtags[i]=="BlackLivesMatter")
+		if(d.hashtags[i]=="BlackLivesMatter"){
 			return 'red';
+		}
 			else if(d.hashtags[i]="RiseUpOctober"){
 				return 'blue';
 			}
-			else
+			else{
 				reutrn 'orange';
-	}
+			}
+//	}
  /* if (d.hashtags == "BlackLivesMatter"){
 	  return 'red';
   }
