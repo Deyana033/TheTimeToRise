@@ -2760,11 +2760,8 @@
     "hashtags": [
       "BlackLivesMatter"
     ]
-  }
-  
-/*adfadfadvfsaddfasfafasfadafd */
-
-{
+  },
+  {
     "created_at": 25,
     "number_per_city": 25,
     "avg_income": 117930,
@@ -2774,7 +2771,7 @@
       "RiseUpOctober"
     ]
   },
-    {
+  {
     "created_at": 25,
     "number_per_city": 6,
     "avg_income": 58979,
@@ -3974,7 +3971,8 @@
     "hashtags": [
       "BlackLivesMatter"
     ]
-  },
+  }
+]
 
 
 
