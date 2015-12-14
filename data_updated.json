@@ -5127,6 +5127,202 @@
     "hashtags": [
       "BlackLivesMatter"
     ]
+  },
+    {
+    "created_at": 26,
+    "number_per_city": 1,
+    "avg_income": 68314,
+    "city_total": 2,
+    "user_city_name": "Palm Beach",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 26,
+    "number_per_city": 1,
+    "avg_income": 52064,
+    "city_total": 1,
+    "user_city_name": "Mishawaka",
+    "hashtags": [
+      "RiseUpOctober"
+    ]
+  },
+  {
+    "created_at": 26,
+    "number_per_city": 1,
+    "avg_income": 55733,
+    "city_total": 18,
+    "user_city_name": "Atlanta",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 26,
+    "number_per_city": 5,
+    "avg_income": 46946,
+    "city_total": 11,
+    "user_city_name": "Miami",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 26,
+    "number_per_city": 9,
+    "avg_income": 71720,
+    "city_total": 24,
+    "user_city_name": "Eugene",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 26,
+    "number_per_city": 1,
+    "avg_income": 87228,
+    "city_total": 1,
+    "user_city_name": "Providence",
+    "hashtags": []
+  },
+  {
+    "created_at": 26,
+    "number_per_city": 1,
+    "avg_income": 47871,
+    "city_total": 1,
+    "user_city_name": "Frostburg",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 26,
+    "number_per_city": 4,
+    "avg_income": 96204,
+    "city_total": 57,
+    "user_city_name": "Washington",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 26,
+    "number_per_city": 1,
+    "avg_income": 65881,
+    "city_total": 1,
+    "user_city_name": "Murfreesboro",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 26,
+    "number_per_city": 1,
+    "avg_income": 54843,
+    "city_total": 1,
+    "user_city_name": "Cohoes",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 26,
+    "number_per_city": 1,
+    "avg_income": 69009,
+    "city_total": 1,
+    "user_city_name": "Plattsburg",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 26,
+    "number_per_city": 1,
+    "avg_income": 52728,
+    "city_total": 5,
+    "user_city_name": "Reno",
+    "hashtags": [
+      "BLM"
+    ]
+  },
+  {
+    "created_at": 26,
+    "number_per_city": 1,
+    "avg_income": 71144,
+    "city_total": 6,
+    "user_city_name": "Fort Worth",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 26,
+    "number_per_city": 1,
+    "avg_income": 134773,
+    "city_total": 1,
+    "user_city_name": "Belmont",
+    "hashtags": []
+  },
+  {
+    "created_at": 26,
+    "number_per_city": 1,
+    "avg_income": 40862,
+    "city_total": 3,
+    "user_city_name": "Hamden",
+    "hashtags": []
+  },
+  {
+    "created_at": 26,
+    "number_per_city": 2,
+    "avg_income": 73332,
+    "city_total": 6,
+    "user_city_name": "Denver",
+    "hashtags": []
+  },
+  {
+    "created_at": 26,
+    "number_per_city": 1,
+    "avg_income": 90596,
+    "city_total": 3,
+    "user_city_name": "Honolulu",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 26,
+    "number_per_city": 1,
+    "avg_income": 65889,
+    "city_total": 1,
+    "user_city_name": "El Cajon",
+    "hashtags": []
+  },
+  {
+    "created_at": 26,
+    "number_per_city": 1,
+    "avg_income": 36919,
+    "city_total": 5,
+    "user_city_name": "Mississippi",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 26,
+    "number_per_city": 1,
+    "avg_income": 68509,
+    "city_total": 2,
+    "user_city_name": "Irving",
+    "hashtags": []
+  },
+  {
+    "created_at": 26,
+    "number_per_city": 1,
+    "avg_income": 72076,
+    "city_total": 1,
+    "user_city_name": "Everett",
+    "hashtags": []
   }
 ]
 
