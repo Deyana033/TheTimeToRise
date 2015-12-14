@@ -199,24 +199,20 @@ d3.json("data_updated.json", function(data) {
         hashtag: d.hashtags,
         year: d.created_at,
 	//	number: interpolateValues(d.number_per_city, year),
-	avg_income: interpolateValues(d.avg_income, d.created_at),
-	city_total: interpolateValues(d.city_total, d.created_at),
-	number_per_city: interpolateValues(d.number_per_city, d.created_at)
+	avg_income: interpolateValues(d.avg_income, d.created_at, year),
+	city_total: interpolateValues(d.city_total, d.created_at, year),
+	number_per_city: interpolateValues(d.number_per_city, d.created_at, year)
       };
     });
   }
   
   
   // Finds (and possibly interpolates) the value for the specified year.
-  function interpolateValues(values,year) {
-    var i = bisect.left(values, year, 0, values.length - 1),
-        a = values[i];
-    if (i > 0) {
-      var b = values[i - 1],
-          t = (year - a[0]) / (b[0] - a[0]);
-      return a[1] * (1 - t) + b[1] * t;
-    }
-    return a[1];
+  function interpolateValues(value, date, year) {
+	if (year == date)
+	   return value;
+	else
+	   return 0;
   }
 });
 
