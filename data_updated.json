@@ -482,5 +482,306 @@
     "hashtags": [
       "BlackLivesMatter"
     ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 1,
+    "avg_income": 100936,
+    "city_total": 1,
+    "user_city_name": "Grapevine",
+    "hashtags": [
+      "PoliceBrutality"
+
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 1,
+    "avg_income": 153166,
+    "city_total": 1,
+    "user_city_name": "Biltmore Forest",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 3,
+    "avg_income": 80557,
+    "city_total": 16,
+    "user_city_name": "Charlotte",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 1,
+    "avg_income": 84519,
+    "city_total": 2,
+    "user_city_name": "Tucker",
+    "hashtags": []
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 1,
+    "avg_income": 44262,
+    "city_total": 1,
+    "user_city_name": "Nacogdoches",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 1,
+    "avg_income": 61615,
+    "city_total": 1,
+    "user_city_name": "Wilsonville",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 2,
+    "avg_income": 64168,
+    "city_total": 3,
+    "user_city_name": "Wichita",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 4,
+    "avg_income": 74022,
+    "city_total": 30,
+    "user_city_name": "Houston",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 1,
+    "avg_income": 74220,
+    "city_total": 2,
+    "user_city_name": "Bakersfield",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 1,
+    "avg_income": 43095,
+    "city_total": 1,
+    "user_city_name": "Kirkland",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 11,
+    "avg_income": 71720,
+    "city_total": 24,
+    "user_city_name": "Eugene",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 1,
+    "avg_income": 60118,
+    "city_total": 1,
+    "user_city_name": "High Point",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 1,
+    "avg_income": 53054,
+    "city_total": 1,
+    "user_city_name": "Allentown",
+    "hashtags": []
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 77,
+    "avg_income": 52707,
+    "city_total": 99,
+    "user_city_name": "Bronx",
+    "hashtags": [
+      "RiseUpOctober"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 1,
+    "avg_income": 73032,
+    "city_total": 6,
+    "user_city_name": "Arlington",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 1,
+    "avg_income": 71306,
+    "city_total": 1,
+    "user_city_name": "West Palm Beach",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 1,
+    "avg_income": 80761,
+    "city_total": 1,
+    "user_city_name": "Nashua",
+    "hashtags": [
+      "FeelTheBern"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 1,
+    "avg_income": 89428,
+    "city_total": 1,
+    "user_city_name": "Homewood",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 7,
+    "avg_income": 80271,
+    "city_total": 21,
+    "user_city_name": "Oakland",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 1,
+    "avg_income": 83596,
+    "city_total": 13,
+    "user_city_name": "Davis",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 4,
+    "avg_income": 54672,
+    "city_total": 4,
+    "user_city_name": "Cedar City",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 8,
+    "avg_income": 55598,
+    "city_total": 27,
+    "user_city_name": "St Louis",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 1,
+    "avg_income": 30987,
+    "city_total": 1,
+    "user_city_name": "University City",
+    "hashtags": []
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 2,
+    "avg_income": 60769,
+    "city_total": 4,
+    "user_city_name": "Baltimore",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 8,
+    "avg_income": 61283,
+    "city_total": 33,
+    "user_city_name": "Brooklyn",
+    "hashtags": [
+      "RiseUpOctober"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 1,
+    "avg_income": 147201,
+    "city_total": 1,
+    "user_city_name": "Burke",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 1,
+    "avg_income": 92083,
+    "city_total": 11,
+    "user_city_name": "Framingham",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 1,
+    "avg_income": 65494,
+    "city_total": 1,
+    "user_city_name": "Berwyn",
+    "hashtags": []
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 2,
+    "avg_income": 55227,
+    "city_total": 2,
+    "user_city_name": "Akron",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 1,
+    "avg_income": 144306,
+    "city_total": 1,
+    "user_city_name": "Lawrenceville",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 1,
+    "avg_income": 74752,
+    "city_total": 1,
+    "user_city_name": "Fort Collins",
+    "hashtags": []
   }
 ]
