@@ -197,10 +197,11 @@ d3.json("data_updated.json", function(data) {
       return {
         name: d.user_city_name,  
         hashtag: d.hashtags,
+        year: d.created_at,
 	//	number: interpolateValues(d.number_per_city, year),
-	avg_income: interpolateValues(d.avg_income, year),
-	city_total: interpolateValues(d.city_total, year),
-	number_per_city: interpolateValues(d.number_per_city, year)
+	avg_income: interpolateValues(d.avg_income, d.created_at),
+	city_total: interpolateValues(d.city_total, d.created_at),
+	number_per_city: interpolateValues(d.number_per_city, d.created_at)
       };
     });
   }
