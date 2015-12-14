@@ -1,6 +1,12 @@
 //Various accessors that specify the four dimensions of that data visulize.
 function x(d){
-  return d.avg_income;  
+  if (d.avg_income == 0){
+  	return 10000;
+  }
+  else{
+  	return d.avg_income;  	
+  }
+  
 }
 
 function y(d){
