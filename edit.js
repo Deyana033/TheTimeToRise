@@ -196,13 +196,12 @@ d3.json("data_updated.json", function(data) {
   function interpolateData(year) {
     return data.map(function(d) {
       return {
-        name: d.user_city_name,   //not sure what to represent these as...........................................
+        name: d.user_city_name,  
         hashtag: d.hashtags,
 		number: interpolateValues(d.number_per_city,year),
 		avg_income: interpolateValues(d.avg_income,year),
-		city_total: interpolateValues(d.city_total,year)
+		city_total: interpolateValues(d.city_total,year),
 		number_per_city: interpolateValues(d.number_per_city,year)
-        //numberOfTweets: interpolateValues (d.id, year) ?????????????????????????
       };
     });
   }
