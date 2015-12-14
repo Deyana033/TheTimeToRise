@@ -887,5 +887,201 @@
     "hashtags": [
       "BlackLivesMatter"
     ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 5,
+    "avg_income": 55174,
+    "city_total": 8,
+    "user_city_name": "Augusta",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 1,
+    "avg_income": 83206,
+    "city_total": 1,
+    "user_city_name": "Hayesville",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 2,
+    "avg_income": 103733,
+    "city_total": 2,
+    "user_city_name": "Mundelein",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 2,
+    "avg_income": 83206,
+    "city_total": 2,
+    "user_city_name": "Florence",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 1,
+    "avg_income": 46590,
+    "city_total": 1,
+    "user_city_name": "Amelia",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 1,
+    "avg_income": 73389,
+    "city_total": 1,
+    "user_city_name": "Port Vue",
+    "hashtags": []
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 1,
+    "avg_income": 44817,
+    "city_total": 1,
+    "user_city_name": "Seven Oaks",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 6,
+    "avg_income": 57199,
+    "city_total": 34,
+    "user_city_name": "Toledo",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 1,
+    "avg_income": 44756,
+    "city_total": 2,
+    "user_city_name": "St Petersburg",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 1,
+    "avg_income": 93776,
+    "city_total": 1,
+    "user_city_name": "West Orange",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 4,
+    "avg_income": 61320,
+    "city_total": 13,
+    "user_city_name": "California",
+    "hashtags": [
+      "PoliceBrutality"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 1,
+    "avg_income": 67311,
+    "city_total": 1,
+    "user_city_name": "St Clair Shores",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 2,
+    "avg_income": 79258,
+    "city_total": 2,
+    "user_city_name": "Las Vegas",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 1,
+    "avg_income": 53173,
+    "city_total": 2,
+    "user_city_name": "Yorkville",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 1,
+    "avg_income": 93615,
+    "city_total": 1,
+    "user_city_name": "Cliffside Park",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 1,
+    "avg_income": 93039,
+    "city_total": 7,
+    "user_city_name": "Henderson",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 2,
+    "avg_income": 55652,
+    "city_total": 2,
+    "user_city_name": "Knoxville",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 1,
+    "avg_income": 66558,
+    "city_total": 1,
+    "user_city_name": "La Vergne",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 1,
+    "avg_income": 90083,
+    "city_total": 1,
+    "user_city_name": "Verona",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 1,
+    "avg_income": 116612,
+    "city_total": 1,
+    "user_city_name": "Boca Raton",
+    "hashtags": []
   }
-]
+  ]
