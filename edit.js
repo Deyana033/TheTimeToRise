@@ -2,8 +2,9 @@
 function x(d){
   if (d.avg_income == 0){
   	return 10000;
+  }
   
-  else
+  else{
   	return d.avg_income;  	
   }
 }
