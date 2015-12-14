@@ -191,7 +191,7 @@ d3.json("data_updated.json", function(data) {
   }
   
   
-  // not sure of the names here
+ 
   // Interpolates the dataset for the given (fractional) year.
   function interpolateData(year) {
     return data.map(function(d) {
