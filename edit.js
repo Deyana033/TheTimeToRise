@@ -222,12 +222,5 @@ d3.json("data_updated.json", function(data) {
 
 
 
-<script>
 
-GoogleAnalyticsObject = "ga", ga = function() { ga.q.push(arguments); }, ga.q = [], ga.l = +new Date;
-ga("create", "UA-48272912-3", "ocks.org");
-ga("send", "pageview");
-
-</script>
-<script async src="//www.google-analytics.com/analytics.js"></script>
 
