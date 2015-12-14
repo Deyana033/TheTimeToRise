@@ -78,7 +78,7 @@ svg.append("text")
     .attr("text-anchor", "end")
     .attr("x", width)
     .attr("y", height - 6)
-    .text("Average Income"); //last change made
+    .text("Average Income"); 
     
 // Add a y-axis label.
 svg.append("text")
@@ -87,8 +87,7 @@ svg.append("text")
     .attr("y", 6)
     .attr("dy", ".75em")
     .attr("transform", "rotate(-90)")
-    .text("Number of Tweets") //last change made
-
+    .text("Number of Tweets"); 
 
 // Add the year label; the value is set on transition.
 var label = svg.append("text")
