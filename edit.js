@@ -201,7 +201,7 @@ d3.json("data_updated.json", function(data) {
 		number: interpolateValues(d.number_per_city, year),
 		avg_income: interpolateValues(d.avg_income, year),
 		city_total: interpolateValues(d.city_total, year),
-		number_per_city: interpolateValues(d.number_per_city, year)
+	//	number_per_city: interpolateValues(d.number_per_city, year)
       };
     });
   }
