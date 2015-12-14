@@ -332,5 +332,155 @@
     "hashtags": [
       "BlackLivesMatter"
     ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 1,
+    "avg_income": 59749,
+    "city_total": 1,
+    "user_city_name": "Williamstown",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 74,
+    "avg_income": 80204,
+    "city_total": 86,
+    "user_city_name": "Seattle",
+    "hashtags": [
+      "RiseUpOctober"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 20,
+    "avg_income": 82406,
+    "city_total": 68,
+    "user_city_name": "Los Angeles",
+    "hashtags": [
+      "RiseUpOctober"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 1,
+    "avg_income": 64127,
+    "city_total": 1,
+    "user_city_name": "Winston-Salem",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 17,
+    "avg_income": 96204,
+    "city_total": 57,
+    "user_city_name": "Washington",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 2,
+    "avg_income": 72422,
+    "city_total": 18,
+    "user_city_name": "Neenah",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 3,
+    "avg_income": 103995,
+    "city_total": 8,
+    "user_city_name": "San Francisco",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 1,
+    "avg_income": 59679,
+    "city_total": 1,
+    "user_city_name": "Jennings",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 4,
+    "avg_income": 53575,
+    "city_total": 5,
+    "user_city_name": "Michigan",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 1,
+    "avg_income": 133234,
+    "city_total": 1,
+    "user_city_name": "Huntington Beach",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 3,
+    "avg_income": 63989,
+    "city_total": 4,
+    "user_city_name": "Paradise",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 21,
+    "avg_income": 74360,
+    "city_total": 141,
+    "user_city_name": "Chicago",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 1,
+    "avg_income": 96082,
+    "city_total": 1,
+    "user_city_name": "Hacienda Heights",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 1,
+    "avg_income": 117930,
+    "city_total": 190,
+    "user_city_name": "Manhattan",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 1,
+    "avg_income": 78192,
+    "city_total": 1,
+    "user_city_name": "Cardiff",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
   }
 ]
