@@ -210,7 +210,7 @@ d3.json("data_updated.json", function(data) {
   
   // Finds (and possibly interpolates) the value for the specified year.
   function interpolateValues(values,year) {
-    var i = bisect.left(values, year, 0, values.length - 1),
+    var i = bisect.left(values, year, 26, values.length - 1),
         a = values[i];
     if (i > 0) {
       var b = values[i - 1],
