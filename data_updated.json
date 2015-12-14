@@ -1387,5 +1387,199 @@
     "hashtags": [
       "BlackLivesMatter"
     ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 2,
+    "avg_income": 50317,
+    "city_total": 2,
+    "user_city_name": "Salem",
+    "hashtags": [
+      "RiseUpOctober"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 1,
+    "avg_income": 55887,
+    "city_total": 3,
+    "user_city_name": "Columbus",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 1,
+    "avg_income": 54433,
+    "city_total": 1,
+    "user_city_name": "Cedar Hill",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 1,
+    "avg_income": 48963,
+    "city_total": 2,
+    "user_city_name": "Valdosta",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 1,
+    "avg_income": 77429,
+    "city_total": 1,
+    "user_city_name": "Metairie",
+    "hashtags": []
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 1,
+    "avg_income": 55264,
+    "city_total": 1,
+    "user_city_name": "Pelican Bay",
+    "hashtags": []
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 1,
+    "avg_income": 73889,
+    "city_total": 1,
+    "user_city_name": "Hyde Park",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 1,
+    "avg_income": 89996,
+    "city_total": 1,
+    "user_city_name": "Maumelle",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 2,
+    "avg_income": 58147,
+    "city_total": 10,
+    "user_city_name": "Memphis",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 2,
+    "avg_income": 59136,
+    "city_total": 7,
+    "user_city_name": "Newark",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 1,
+    "avg_income": 68322,
+    "city_total": 1,
+    "user_city_name": "Loganville",
+    "hashtags": []
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 3,
+    "avg_income": 63610,
+    "city_total": 4,
+    "user_city_name": "Camden",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 1,
+    "avg_income": 53957,
+    "city_total": 3,
+    "user_city_name": "Birmingham",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 4,
+    "avg_income": 78087,
+    "city_total": 4,
+    "user_city_name": "Rohnert Park",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 2,
+    "avg_income": 42569,
+    "city_total": 5,
+    "user_city_name": "Gary",
+    "hashtags": [
+      "RiseUpOctober"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 1,
+    "avg_income": 67878,
+    "city_total": 2,
+    "user_city_name": "Oklahoma City",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 1,
+    "avg_income": 73332,
+    "city_total": 6,
+    "user_city_name": "Denver"
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 23,
+	"number_per_city": 1,
+    "avg_income": 59531,
+    "city_total": 1,
+    "user_city_name": "Springdale",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 24,
+	"number_per_city": 1,
+    "avg_income": 89004,
+    "city_total": 1,
+    "user_city_name": "Monrovia",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
+  },
+  {
+    "created_at": 24,
+	"number_per_city": 1,
+    "avg_income": 78713,
+    "city_total": 1,
+    "user_city_name": "Plainfield",
+    "hashtags": [
+      "BlackLivesMatter"
+    ]
   }
 ]
