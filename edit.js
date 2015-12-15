@@ -1,3 +1,76 @@
+
+Conversation opened. 3 messages. 1 message unread.
+
+Skip to content
+Using Texas A&M University Mail with screen readers
+Kathryn
+Search
+
+
+
+Mail
+COMPOSE
+Labels
+Inbox
+Starred
+Important
+Sent Mail
+Drafts
+Box Office
+CHEN
+College Finances
+Fall 2013 Leasing
+Fall 2014
+Migrated from Zimbra
+Notes
+Spring 2014
+Spring 2015
+Summer 2015
+TAP
+More labels 
+Hangouts
+
+ 
+ 
+ 
+  More 
+1 of 165  
+ 
+Expand all Print all In new window
+Data Visualization
+Inbox
+x 
+
+Kathryn Moczygemba		1:39 PM (4 hours ago)
+Howdy My partner and I have been having a hard time getting everything workin...
+
+Ajit Jain		2:14 PM (4 hours ago)
+please come in at 5 pm.
+
+Ajit Jain
+Attachments5:58 PM (34 minutes ago)
+
+to kathryn02, me 
+
+Attachments area
+Preview attachment edit.js
+
+Javascript
+edit.js
+	
+Click here to Reply, Reply to all, or Forward
+Using 0.55 GB
+Manage
+Program Policies
+Powered by Google
+Last account activity: 10 minutes ago
+Details
+4 more
+Ajit Jain
+Join Google+
+
+Show details
+
 //Various accessors that specify the four dimensions of that data visulize.
 function x(d){
   if (d.avg_income == 0){
@@ -180,18 +253,28 @@ d3.json("data_updated.json", function(data) {
       label.classed("active", false);
     }
     function mousemove() {
-      displayYear(yearScale.invert(d3.mouse(this)[0]));
+      displayYear(Math.round(yearScale.invert(d3.mouse(this)[0])));
     }
   }
   // Tweens the entire chart by first tweening the year, and then the data.
   // For the interpolated data, the dots and label are redrawn.
   function tweenYear() {
     var year = d3.interpolateNumber(22, 26);
-    return function(t) { displayYear(year(t)); };
+    return function(t) { displayYear(Math.round(year(t))); };
   }
   // Updates the display to show the specified year.
   function displayYear(year) {
-    dot.data(interpolateData(year), key).call(position).sort(order);
+    svg.selectAll(".dot").remove();
+	var dot = svg.append("g")
+      .attr("class", "dots")
+    .selectAll(".dot")
+      .data(interpolateData(year))
+    .enter().append("circle")
+      .attr("class", "dot")
+      .style("fill", function(d) { return colorScale(color(d)); })
+      .call(position)
+      .sort(order);
+   // svg.selectAll(".dot").data(interpolateData(year), key).call(position).sort(order);
     label.text(Math.round(year));
   }
   
@@ -216,7 +299,10 @@ d3.json("data_updated.json", function(data) {
   // Finds (and possibly interpolates) the value for the specified year.
   function interpolateValues(value, date, year) {
 	if (year == date)
-	   return value;
+	{
+	//console.log(year + ":" + date);
+	return value;
+	}
 	else
 	   return 0;
   }
@@ -226,3 +312,5 @@ d3.json("data_updated.json", function(data) {
 
 
 
+edit.jsOpen
+Displaying edit.js.
